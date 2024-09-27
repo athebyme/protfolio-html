@@ -3,7 +3,7 @@ name: Jekyll site CI
 on:
   push:
     branches:
-      - gh-pages  # Запускать только при пуше в основную ветку
+      - main  # Запускать только при пуше в основную ветку
 
 jobs:
   build:
