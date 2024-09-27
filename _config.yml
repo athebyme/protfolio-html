@@ -1,2 +1,3 @@
 title: "Мой сайт-портфолио"
 description: "Сайт-портфолио Антона Брюхова"
+publish_dir: ./_site
